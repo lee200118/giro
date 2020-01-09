@@ -7,11 +7,11 @@
 | 전문명 | API |
 |:---:|:---:|
 | 전기요금 납부 선조회 |	InquireElectricityFarePayment |
-|전기요금 납부	| ElectricityFarePayment |
-|전기요금 납부내역 조회	| InquireElectricityFarePaymentHistory |
-|상하수도요금 납부 선조회	| InquireSewageFarePayment |
-|상하수도요금 납부	| SewageFarePayment |
-|상하수도요금 납부내역 조회 |	InquireSewageFarePaymentHistory |
+| 전기요금 납부	| ElectricityFarePayment |
+| 전기요금 납부내역 조회	| InquireElectricityFarePaymentHistory |
+| 상하수도요금 납부 선조회	| InquireSewageFarePayment |
+| 상하수도요금 납부	| SewageFarePayment |
+| 상하수도요금 납부내역 조회 |	InquireSewageFarePaymentHistory |
 
 ## 2 resource url
 #### 2.1 전기요금 납부 선조회
